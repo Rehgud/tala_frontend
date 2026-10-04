@@ -3,7 +3,7 @@
 > **Traffic Accident Legal Advisor, based on AI**
 > 교통사고 상황을 입력하면 관련 법령을 근거로 과실과 대응 방법을 안내하는 AI 법률 조언 서비스
 
-**🏆 2024 IBM Winter Hackathon 우승작** (2025년 2월) · 팀 **한문철TV**
+**🏆 IBM 겨울 해커톤 우승작** (2025년 2월) · 팀 **한문철TV**
 
 이 저장소는 TALA AI의 **프론트엔드**입니다. 프론트엔드는 [Rehgud](https://github.com/Rehgud)가 전담해 개발했습니다.
 백엔드·모델은 팀 조직 [TALA-AI](https://github.com/TALA-AI)에 있습니다.
